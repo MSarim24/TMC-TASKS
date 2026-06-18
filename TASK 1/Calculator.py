@@ -19,3 +19,4 @@ num1 = float(num1)
 num2 = float(num2)
 result = simple_calculator(num1, num2, operator)
 print("Result:", result)   
+        
