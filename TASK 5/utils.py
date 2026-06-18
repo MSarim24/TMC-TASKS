@@ -1,6 +1,8 @@
 import time
 import os
 
+""" this file contains utility functions for various tasks such as FizzBuzz, multiplication table, simple calculator, number guessing game, word count, unit conversions, BMI calculation, and contact management. """
+
 def FIZZBUZZ():
     for number in range(1,100):
         if number % 15 == 0:
