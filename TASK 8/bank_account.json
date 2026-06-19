@@ -1,1 +1,1 @@
-{"owner": "John Doe", "balance": 155.0, "transactions": ["Deposited: 100", "Withdrew: 30", "Deposited: 50", "Deposited: 55", "Withdrew: 20"]}
+{"owner": "John Doe", "balance": 155.0, "transactions": ["Deposit: 100", "Withdrew: 30", "Deposit: 50", "Deposit: 55", "Withdrew: 20"]}
