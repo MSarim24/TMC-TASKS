@@ -23,6 +23,8 @@ try:
         data1["userId"].append(data["userId"])
         
     df = pd.DataFrame(data1)
+    print(df)
+    print(df.iloc[0:3])
     df.to_excel("student.xlsx",index=False)
 
 except requests.exceptions.HTTPError as http_err:
